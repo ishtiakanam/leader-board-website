@@ -1,0 +1,37 @@
+body {
+  background-color: #f3f1ff;
+}
+.navbar img {
+  height: 50px;
+  width: 45px;
+}
+main {
+  max-width: 870px;
+}
+.top-player {
+  background-color: #ffffff;
+}
+.player img {
+  width: 56px;
+}
+.blog img {
+  width: 150px;
+}
+span {
+  color: blue;
+}
+h3 {
+  color: blue;
+}
+.card-text {
+  color: red;
+}
+.star-img {
+  width: 15px;
+}
+.conatiner-Courses {
+  background-color: #ffff;
+}
+.container-blog {
+  background-attachment: #ffff;
+}
